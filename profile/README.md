@@ -1,7 +1,7 @@
 # Nekosia API 😻
-- https://nekosia.cat
-- https://api.nekosia.cat
-- https://cdn.nekosia.cat
+- https://nekosia.cat - Official website
+- https://api.nekosia.cat - Application Programming Interface
+- https://cdn.nekosia.cat - Content Delivery Network
 
 Nekosia API is a free solution for integrating anime content into your projects. Cute neko images, your own Booru, Nekosia has everything you need!
 
