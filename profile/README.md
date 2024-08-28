@@ -1,5 +1,6 @@
 # Nekosia API 😻
 - https://nekosia.cat - Official website
+- https://nekosia.cat/documentation - Documentation
 - https://api.nekosia.cat - Application Programming Interface
 - https://cdn.nekosia.cat - Content Delivery Network
 
