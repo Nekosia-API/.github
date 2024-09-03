@@ -8,7 +8,7 @@ Hi there! Are you looking for the perfect API to enhance your project with adora
 Nekosia API is a versatile, free, and easy-to-integrate Anime API that offers a wide selection of images, including catgirls, foxgirls, and much more!
 Whether you're building an app, a Discord bot, or a website, Nekosia API has everything you need to add a touch of anime magic to your project.
 
-🤔 What Does Nekosia API Offer?
+## 🤔 What Does Nekosia API Offer?
 - An extensive collection of fully SFW anime images. See all main categories: https://nekosia.cat/categories
 - API sessions that help avoid duplicate images
 - Dominant colors of images (1 main color + 14 hex codes in each API response)
